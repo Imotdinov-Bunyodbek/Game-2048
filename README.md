@@ -1,6 +1,7 @@
 # Game-2048
 
-2048 is a classic number puzzle game where players slide tiles to merge them and reach the 2048 tile. This Android version brings smooth gameplay with intuitive touch controls.
+2048 is a classic number puzzle game where players slide tiles to merge them and reach the 2048
+tile. This Android version brings smooth gameplay with intuitive touch controls.
 
 ## 🎮 Features
 
@@ -22,8 +23,11 @@ Below are some screenshots of the application:
 <table>
   <tr>
     <td><img src="images/home.png" alt="Home Screen" width="200"/></td>
-    <td><img src="images/gameplay.png" alt="Gameplay" width="200"/></td>
-    <td><img src="images/game_over.png" alt="Game Over" width="200"/></td>
+    <td><img src="images/game.png" alt="Gameplay" width="200"/></td>
+    <td><img src="images/info.png" alt="Info" width="200"/></td>
+  </tr>
+<tr>
+    <td><img src="images/game_dialog.png" alt="Dialog" width="200"/></td>
   </tr>
 </table>
 
